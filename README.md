@@ -9,3 +9,4 @@ Veritabanı Yapılandırması
 - Veritabanını içe aktar: /ecom_store.sql
 - URL'nin içine yerleştirilen tarayıcınızı açın: "http://localhost/itzy/”
 - Yönetici olarak giriş yapmak için: “http://localhost/itzy/admin_area”
+***********
